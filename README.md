@@ -69,6 +69,7 @@ Andrej Košmrlj, Princeton University
 
 ## Run on Mac
 `sudo puthon xxx.py`
+`sudo mpirun -n 8 python xxx.py`
 
 ## Issues
 https://github.com/conda-forge/fenics-feedstock/issues/44
