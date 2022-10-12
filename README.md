@@ -68,7 +68,7 @@ Andrej Košmrlj, Princeton University
 [website](http://www.princeton.edu/~akosmrlj/) 
 
 ## Run on Mac
-`sudo puthon xxx.py`
+`sudo python xxx.py`
 `sudo mpirun -n 8 python xxx.py`
 
 ## Issues
