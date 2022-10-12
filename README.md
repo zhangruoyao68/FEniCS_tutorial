@@ -67,3 +67,8 @@ https://fenicsproject.org/docs/dolfin/latest/python/demos.html
 Andrej Košmrlj, Princeton University
 [website](http://www.princeton.edu/~akosmrlj/) 
 
+## Run on Mac
+`sudo puthon xxx.py`
+
+## Issues
+https://github.com/conda-forge/fenics-feedstock/issues/44
